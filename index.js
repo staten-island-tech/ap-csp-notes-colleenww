@@ -17,6 +17,6 @@ const number = 50;
 // LET allows a value to be changed
 let number = 100;
 number = number - 50;
-// both CONST and LET don't allow a variable to be redeclared //
+// both CONST and LET don't allow a variable to be redeclared
 
 console.log(CYCLE_0_NOTES);
